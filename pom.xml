@@ -29,7 +29,7 @@
     </parent>
 
     <properties>
-        <lucene.version>6.6.5</lucene.version>
+        <lucene.version>8.5.1</lucene.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
